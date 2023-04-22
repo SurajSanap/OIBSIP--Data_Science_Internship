@@ -1,7 +1,6 @@
 # Oasis-internship
-Internship
 
-OASIS INFOBYTE DATA SCIENCE INTERNSHIP
+**OASIS INFOBYTE DATA SCIENCE INTERNSHIP**
 
 This internship was all about data science and analytics. I applied for this internship from the website of Oasis Infobyte. I completed all the given tasks by them. They have given 5 tasks. The description of all the tasks is given below:
 
